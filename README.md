@@ -12,3 +12,15 @@
     -   Developpement du module
     -   Confirguration necessaire 
     -   installation du package créer avec la commande pip
+
+3.  ##  Utilité du module
+    
+    Le module conversion permet de convertir une vitesse soit : 
+
+    -   En Kilomètre par heure (Km/h)
+    -   En mètre par séconde (m/s)
+
+4.  ##  Lancement du module
+
+    -   on founir en entrée la vitesse 
+    -   on lance le programme : conversion ( vitesse )
