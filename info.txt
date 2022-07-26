@@ -1,3 +1,0 @@
--   Création de compte sur github
--   Création de compte sur Pypi.org
-
