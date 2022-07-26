@@ -9,7 +9,7 @@ VERSION = '0.0.1'
 DESCRIPTION = 'A conversion package'
 
 setup(
-    name="conversion",
+    name="conversion_vitesse",
     version=VERSION,
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
@@ -25,5 +25,5 @@ setup(
         "Intended Audience :: Developers",
         'License :: OSI Approved :: MIT License',
         "Programming Language :: Python :: 3",
-    ]
+    ] 
 )
