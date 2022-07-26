@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: conversion-vitesse
-Version: 0.0.1
+Version: 0.0.2
 Summary: A conversion package
 Home-page: https://github.com/ismael-val1998/Conversion
 Author: Ismael KOUASSI
@@ -13,7 +13,7 @@ Classifier: Intended Audience :: Developers
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python :: 3
 
-# Projet conversion
+# Project conversion
 
 1.  ##  But du projet
 

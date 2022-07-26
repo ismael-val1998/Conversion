@@ -4,7 +4,7 @@ with open("README.md", "r", encoding = "utf-8") as readme:
 
     LONG_DESCRIPTION = readme.read()
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 
 DESCRIPTION = 'A conversion package'
 

@@ -3,7 +3,7 @@
 1.  ##  But du projet
 
     -   Créer un module python
-    -   Le puplier sur la communaité de python (Pypi.org)
+    -   Le puplier sur la communauté de python (Pypi.org)
 
 2.  ##  Etapes
 
@@ -24,3 +24,7 @@
 
     -   on founir en entrée la vitesse 
     -   on lance le programme : conversion ( vitesse )
+
+5.  ##  Disponible sur la communauté python
+
+    lien de téléchargement [https://pypi.org/project/conversion-vitesse/]
