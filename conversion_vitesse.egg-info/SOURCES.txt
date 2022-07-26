@@ -1,0 +1,8 @@
+README.md
+setup.py
+conversion_vitesse/Conversion.py
+conversion_vitesse/__init__.py
+conversion_vitesse.egg-info/PKG-INFO
+conversion_vitesse.egg-info/SOURCES.txt
+conversion_vitesse.egg-info/dependency_links.txt
+conversion_vitesse.egg-info/top_level.txt
