@@ -1,0 +1,11 @@
+-   Création de compte sur github
+-   Création de compte sur Pypi.org
+
+-   Création du package : python setup.py sdist
+-   Charger le package sur la plateforme :
+        *   pip install twine
+        *   twine upload dist/*
+
+-   Mise à jour du package :
+        *   python setup.py sdist
+        *   twine upload dist/*
